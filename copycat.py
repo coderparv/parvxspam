@@ -848,7 +848,7 @@ async def _(e):
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
             
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.join"))
+ 
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.join"))
 @wdk.on(events.NewMessage(incoming=True, pattern=r"\.join"))
 @hdk.on(events.NewMessage(incoming=True, pattern=r"\.join"))
