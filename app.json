@@ -1,7 +1,7 @@
 {
-  "name": "COPYCAT MULTI SPAM BOT",
-  "description": "A POWERFULL AND FAST SPAM BOT MADE BY COPYCAT.",
-  "logo": "https://telegra.ph/file/e109980c513e72c720563.jpg",
+  "name": "PARV X SPAM BOT",
+  "description": "A POWERFULL AND FAST SPAM BOT MADE BY CODESFRU.",
+  "logo": "https://telegra.ph/file/d348cd93aa10dbcaac734.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -135,28 +135,28 @@
       },
       "USERNAME": {
         "description": "Leave As It Is",
-        "value": "#Copycat Op",
+        "value": "@AVALIVEFRU",
         "required": false
    
      },
       "ALIVE_NAME": {
         "description": "Leave As It Is",
-        "value": "#Copycat User",
+        "value": "#HEADMASTER ARMY",
         "required": false
       },
       "API_ID": {
         "description": "Generate It From https://my.telegram.org/auth",
-        "value": "2730123",
+        "value": "6855119",
         "required": true
       },
       "API_HASH": {
         "description": "Generate It From https://my.telegram.org/auth ",
-        "value": "c180ae374f350ed3e6f9d4edec3e147c",
+        "value": "2ec89af046e9b70153fdf119d28f2d7b",
         "required": true
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "1511772190",
+        "value": "1406657231 1833910708",
         "required": true
       }
   },
