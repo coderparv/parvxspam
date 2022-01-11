@@ -112,10 +112,10 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await idk.start()
             botme = await idk.get_me()
-            await idk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await idk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await idk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await idk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -138,10 +138,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 2")
             await ydk.start()
-            await ydk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -165,10 +165,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 3")
             await  wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -192,10 +192,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 4")
             await hdk.start()
-            await hdk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -219,10 +219,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 5")
             await sdk.start()
-            await sdk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -246,10 +246,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 6")
             await adk.start()
-            await adk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await adk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await adk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await adk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await adk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -273,10 +273,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 7")
             await bdk.start()
-            await bdk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -301,10 +301,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 8")
             await cdk.start()
-            await cdk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await cdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -328,10 +328,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 9")
             await ddk.start()
-            await ddk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await ddk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -356,10 +356,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 10")
             await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await edk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await edk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await edk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -384,10 +384,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 11")
             await vkk.start()
-            await vkk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await vkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -412,10 +412,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 12")
             await kkk.start()
-            await kkk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await kkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -440,10 +440,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 13")
             await lkk.start()
-            await lkk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -468,11 +468,11 @@ async def start_yukki():
         try:
             print("Booting Up The Client 14")
             await mkk.start()
-            await mkk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
-            botme = await mkk.get_me()
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -496,10 +496,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 15")
             await sid.start()
-            await sid(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await sid(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await sid(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await sid(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botme = await sid.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -525,10 +525,11 @@ async def start_yukki():
             print("Booting Up The Client 16")
             await shy.start()
             botme = await shy.get_me()
-            await shy(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await shy(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await shy(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await shy(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -551,10 +552,11 @@ async def start_yukki():
             print("Booting Up The Client 17")
             await aan.start()
             botme = await aan.get_me()
-            await aan(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await aan(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await aan(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await aan(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -577,10 +579,11 @@ async def start_yukki():
             print("Booting Up The Client 18")
             await ake.start()
             botme = await ake.get_me()
-            await ake(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await ake(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await ake(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await ake(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -603,10 +606,11 @@ async def start_yukki():
             print("Booting Up The Client 19")
             await eel.start()
             botme = await eel.get_me()
-            await eel(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await eel(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await eel(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await eel(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -629,10 +633,11 @@ async def start_yukki():
             print("Booting Up The Client 20")
             await khu.start()
             botme = await khu.get_me()
-            await khu(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await khu(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await khu(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await khu(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -655,10 +660,11 @@ async def start_yukki():
             print("Booting Up The Client 21")
             await shi.start()
             botme = await shi.get_me()
-            await shi(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await shi(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await shi(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await shi(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -681,10 +687,11 @@ async def start_yukki():
             print("Booting Up The Client 22")
             await yaa.start()
             botme = await yaa.get_me()
-            await yaa(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -707,10 +714,11 @@ async def start_yukki():
             print("Booting Up The Client 23")
             await dav.start()
             botme = await dav.get_me()
-            await dav(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await dav(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await dav(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await dav(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -733,10 +741,11 @@ async def start_yukki():
             print("Booting Up The Client 24")
             await raj.start()
             botme = await raj.get_me()
-            await raj(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await raj(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await raj(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await raj(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
+            botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -759,10 +768,10 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await put.start()
             botme = await put.get_me()
-            await put(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
-            await put(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
-            await put(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await put(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
+            await idk(functions.channels.JoinChannelRequest(channel="@parv200v"))
+            await idk(functions.channels.JoinChannelRequest(channel="@codesfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@tipsfru"))
+            await idk(functions.channels.JoinChannelRequest(channel="@mlo_empire"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -872,11 +881,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = " HO RHA HU JOIN RUKK......"
+            text = " on the way sir 🔥......"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("HO GYA JOIN SIR")
+                await event.edit("HEADMASTER ARMY ON POSITION🔥")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -916,11 +925,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = yukki[0]
-            text = "HO RHA HU JOIN RUKK......"
+            text = "private chat h to kia hua are haina 🔥......"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("HO GYA HU JOIN SIR")
+                await event.edit("HEADMASTER ARMY ON POSITION🔥")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -975,7 +984,7 @@ async def _(e):
 
                 await event.client(LeaveChannelRequest(bc))
 
-                await event.edit("HO GYA LEAVE SIR😈")
+                await event.edit("HEADMASTER'S ARMY HERE 🔥❤️‍🔥")
 
             except Exception as e:
 
@@ -1433,7 +1442,7 @@ async def ping(e):
         end = datetime.now()
         ms = (end-start).microseconds / 1000
         await event.edit(f"""
-    ||•𝗖𝗢𝗣𝗬𝗖𝗔𝗧 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧•||
+    ||#UNT_ARMY HEADMASTER_OP•||
 ╔═╗╔═╗╔═╦╗╔══╗
 ║╬║║║║║║║║║╔═╣
 ║╔╝║║║║║║║║╚╗║
@@ -1559,12 +1568,12 @@ async def help(e):
         
 text = """
 
-💥💥ᑕOᑭYᑕᗩT ᗰᑌᒪTI Տᑭᗩᗰ ᗷOT IՏ ᗩ ᗰOᗪIᖴIᗴᗪ ᐯᗴᖇՏIOᑎ Oᖴ YᑌKKI  💥💥💥
-💥💥💥💥💥💥 ᗷY ᑕOᑭYᑕᗩT   Oᑭ 💥💥💥💥💥💥"""
+💥💥A SPAM BOT FROM @CODESFRU ❤️‍🔥♦️🔸🔺
+ ❤️‍🔥♦️🔸🔺 ᗷY HEADMASTER  ❤️‍🔥♦️🔸🔺"""
 
 print(text)
 print("")
-print("SMEX ! ᑕᕼᗩᒪ ᘜYᗩ ᗰᗩᗪᗩᖇᑕᕼOᗪ Tᗴᖇᗩ ᗷOT ᒍᗩᗩ ᒍᗩKᗴ .ping ᒪIKᕼ Kᗴ ᗪᗴKᕼ #Oᑭ ᑕOᑭYᑕᗩT.")
+print("SMEX ! started type .ping and start ❤️‍🔥.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
